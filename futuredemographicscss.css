@@ -1,1 +1,23 @@
-#mapid { height: 700px; }
+#mapid { height: 500px;
+    font-family: 'Alatsi', sans-serif;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    font-family: 'Baskervville', serif;
+    font-size: 30px;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
