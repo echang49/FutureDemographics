@@ -1,6 +1,17 @@
 #mapid { height: 500px;
     font-family: 'Alatsi', sans-serif;
+}
 
+#previousAgePop{
+    font-family: 'Alatsi', sans-serif;
+}
+
+#newAgePop{
+    font-family: 'Alatsi', sans-serif;
+}
+
+#difference{
+    font-family: 'Alatsi', sans-serif;
 }
 ul {
     list-style-type: none;
